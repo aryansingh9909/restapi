@@ -1,4 +1,4 @@
-package com.restapi.model.exception;
+package com.restapi.exception;
 
 import java.util.Date;
 
